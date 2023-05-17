@@ -23,9 +23,6 @@ Complete the following steps:
     * Use ```otu_labels``` for the text values.
 
 4. Display the sample metadata, i.e., an individual's demographic information.
-
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
-
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
-
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo (Link provided on top).
